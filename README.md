@@ -1,0 +1,2 @@
+Gimp-grayscale-progress-plugin-
+===============================
